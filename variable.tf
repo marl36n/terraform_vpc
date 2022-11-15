@@ -71,7 +71,7 @@ variable "key-pair" {
 }
 
 variable "ami-id" {
-  default = "ami-0022f774911c1d690"
+  default = "ami-0d361301d8f7067d5"
   description = "linux ami id"
   type = string
 }
